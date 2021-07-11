@@ -1,9 +1,4 @@
 # Iron Monke
 
-#{description}
-
-## Credits
-
-* [zoller27osu](https://github.com/zoller27osu), [Sc2ad](https://github.com/Sc2ad) and [jakibaki](https://github.com/jakibaki) - [beatsaber-hook](https://github.com/sc2ad/beatsaber-hook)
-* [raftario](https://github.com/raftario) 
-* [Lauriethefish](https://github.com/Lauriethefish) and [danrouse](https://github.com/danrouse) for [this template](https://github.com/Lauriethefish/quest-mod-template)
+Fly like iron man but monke.
+Press B for right hand and Y for left to activate thrusters, enable, change thrust and disable in the watch
